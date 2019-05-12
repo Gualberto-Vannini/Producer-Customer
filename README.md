@@ -44,7 +44,8 @@ I added this counter to understand how many Producers you should have to satisfy
 
 **Documentation:**
 1. This readme is a sample of how I believe into the  documentation (and also comments into my code).
-2. Repository into Github to share my work. 	
+2. Repository into Github to share my work.
+3. Sample GIF to show how the app works ( https://github.com/Gualberto-Vannini/Producer-Customer/blob/master/sample.gif )
 
 
 **Developed with passion** (during my weekend).
